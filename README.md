@@ -1,2 +1,2 @@
-# avi-gloden-project-final-stage
-vsc
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
